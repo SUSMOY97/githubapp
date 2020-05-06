@@ -2,7 +2,7 @@ import React from "react";
 
 const PageNotFound = () => {
     return (
-        <h1>404 Page doesn't exist</h1>
+        <h1 className="change">PLEASE LOGIN OR SIGNUP TO CONTINUE</h1>
     )
 }
 
